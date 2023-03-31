@@ -16,7 +16,7 @@
 	<th>Campos Desbloqueados</th>
    </tr>
     <tr>
-   <td rowspan="3"><img align="center" src="img/seleccion.gif"/></td>
+   <td rowspan="4"><img align="center" src="img/selecc.gif"/></td>
 	<td>NetBeans IDE 8.2</td>
    </tr>
    <tr>
