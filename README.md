@@ -11,8 +11,20 @@
 # platforms
 <div>
   <table>
+    <th>
+    <tr>
+      <td>Compiladores - Terminales</td>
+    </tr>
+    <tr>
+      <td><img align="center" src="img/seleccion.gif"/></td>
+    </tr>
+    </th>
+  <table>
+  <table>
+    <th>
     <tr>
       <td>Visual Studio Code</td>
     </tr>
-  <table>
+    </th>
+  </table>
 </div>
