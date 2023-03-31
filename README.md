@@ -16,7 +16,7 @@
 	<th>Campos Desbloqueados</th>
    </tr>
     <tr>
-   <td rowspan="2">Celda Combinada</td>
+   <td rowspan="3"><img align="center" src="img/seleccion.gif"/></td>
 	<td>NetBeans IDE 8.2</td>
    </tr>
    <tr>
@@ -25,5 +25,8 @@
    <tr>
 	   <td>Visual Studio Code</td>
    </tr>
+	   <tr>
+	   <td>IntelliJ IDEA</td>
+	  </tr>
   </table>
 </div>
