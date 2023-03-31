@@ -5,3 +5,5 @@
 ###  Todos dicen que existe un límite para todo. Pero pocos rompen ese límite y se superan más
 
 #### `Hola` soy Diego S. Román Guerra. 
+
+![](https://komarev.com/ghpvc/?username=Roman31X&color=00a0a0&style=plastic)
