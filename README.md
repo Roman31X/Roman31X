@@ -8,9 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Roman31X&color=ed0000&style=plastic)
 
+# Compiladores - Terminales
+
 <div>
- <center>
-	 <h1>Compiladores - Terminales</h1>
   <table border="1">
     <tr>
 	<th>Area de entrenamiento</th>
@@ -30,5 +30,4 @@
 	   <td>IntelliJ IDEA</td>
 	  </tr>
   </table>
-</center>
 </div>
