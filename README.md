@@ -12,13 +12,14 @@
   <table border="1">
     <caption>Compiladores - Terminales</caption>
     <tr>
-				<th>Area de entrenamiento</th>
-				<th>Campos Desbloqueados</th>
-		</tr>
+	<th>Area de entrenamiento</th>
+	<th>Campos Desbloqueados</th>
+   </tr>
     <tr>
-				<td rowspan="2">Celda Combinada</td>
-				<td>Celda 5</td>
-				<td rowspan="2">Celda Combinada</td>
-			</tr>
+   <td rowspan="2">Celda Combinada</td>
+	<td>NetBeans IDE 8.2</td>
+	<td>Sublime Text</td>
+	<td>Visual Studio Code</td>
+   </tr>
   </table>
 </div>
