@@ -11,10 +11,8 @@
 ---
 
 # Compiladores - Terminales
-<head>
-	<link rel="stylesheet" href="css/estilo.css">
-</head>
 <div>
+<center>
   <table border="1">
     <tr>
 	<th>Area de entrenamiento</th>
@@ -23,21 +21,22 @@
 	    
    </tr>
     <tr>
-   <td rowspan="4"><img align="center" src="img/selecc.gif"/></td>
+   <td rowspan="4"><img  width="100" heigth="100" align="center" src="img/selecc.gif"/></td>
 	<td>NetBeans IDE 8.2</td>
-	<td><img class="logo" align="center" src="icons/L1.png"/></td>
+	<td><img width="30" heigth="30" class="logo" align="center" src="icons/L1.png"/></td>
    </tr>
    <tr>
 	   <td>Sublime Text</td>
-	   <td><img  class="logo" align="center" src="icons/s1.png"/></td>
+	   <td><img width="30" heigth="30" class="logo" align="center" src="icons/s1.png"/></td>
    </tr>
    <tr>
 	   <td>Visual Studio Code</td>
-	   <td><img class="logo" align="center" src="icons/v1.png"/></td>
+	   <td><img width="30" heigth="30" class="logo" align="center" src="icons/v1.png"/></td>
    </tr>
 	   <tr>
 	   <td>IntelliJ IDEA</td>
-           <td><img class="logo" align="center" src="icons/in.png"/></td>
+           <td><img width="30" heigth="30" class="logo" align="center" src="icons/in.png"/></td>
 	  </tr>
   </table>
+</center>
 </div>
