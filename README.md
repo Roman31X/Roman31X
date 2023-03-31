@@ -8,23 +8,17 @@
 
 ![](https://komarev.com/ghpvc/?username=Roman31X&color=ed0000&style=plastic)
 
-# platforms
 <div>
-  <table>
-    <th>
+  <table border="1">
+    <caption>Compiladores - Terminales</caption>
     <tr>
-      <td>Compiladores - Terminales</td>
-    </tr>
+				<th>Area de entrenamiento</th>
+				<th>Campos Desbloqueados</th>
+		</tr>
     <tr>
-      <td><img align="center" src="img/seleccion.gif"/></td>
-    </tr>
-    </th>
-  <table>
-  <table>
-    <th>
-    <tr>
-      <td>Visual Studio Code</td>
-    </tr>
-    </th>
+				<td rowspan="2">Celda Combinada</td>
+				<td>Celda 5</td>
+				<td rowspan="2">Celda Combinada</td>
+			</tr>
   </table>
 </div>
