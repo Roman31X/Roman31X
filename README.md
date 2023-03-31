@@ -35,7 +35,7 @@
    </tr>
 	   <tr>
 	   <td>IntelliJ IDEA</td>
-           <td><img align="center" src="icons/in1.png"/></td>
+           <td><img align="center" src="icons/in.png"/></td>
 	  </tr>
   </table>
 </div>
