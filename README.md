@@ -9,8 +9,10 @@
 ![](https://komarev.com/ghpvc/?username=Roman31X&color=ed0000&style=plastic)
 
 <div>
+ <center>
+	 <h1>Compiladores - Terminales</h1>
+</center>
   <table border="1">
-    <caption>Compiladores - Terminales</caption>
     <tr>
 	<th>Area de entrenamiento</th>
 	<th>Campos Desbloqueados</th>
