@@ -11,7 +11,6 @@
 <div>
  <center>
 	 <h1>Compiladores - Terminales</h1>
-</center>
   <table border="1">
     <tr>
 	<th>Area de entrenamiento</th>
@@ -31,4 +30,5 @@
 	   <td>IntelliJ IDEA</td>
 	  </tr>
   </table>
+</center>
 </div>
