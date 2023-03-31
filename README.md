@@ -11,7 +11,9 @@
 ---
 
 # Compiladores - Terminales
-<link rel="stylesheet" href="css/estilo.css">
+<head>
+	<link rel="stylesheet" href="css/estilo.css">
+</head>
 <div>
   <table border="1">
     <tr>
