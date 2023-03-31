@@ -11,7 +11,7 @@
 ---
 
 # Compiladores - Terminales
-
+<link rel="stylesheet" href="css/estilo.css">
 <div>
   <table border="1">
     <tr>
@@ -23,19 +23,19 @@
     <tr>
    <td rowspan="4"><img align="center" src="img/selecc.gif"/></td>
 	<td>NetBeans IDE 8.2</td>
-	<td><img align="center" src="icons/L1.png"/></td>
+	<td><img class="log" align="center" src="icons/L1.png"/></td>
    </tr>
    <tr>
 	   <td>Sublime Text</td>
-	   <td><img align="center" src="icons/s1.png"/></td>
+	   <td><img  class="log" align="center" src="icons/s1.png"/></td>
    </tr>
    <tr>
 	   <td>Visual Studio Code</td>
-	   <td><img align="center" src="icons/v1.png"/></td>
+	   <td><img class="log" align="center" src="icons/v1.png"/></td>
    </tr>
 	   <tr>
 	   <td>IntelliJ IDEA</td>
-           <td><img align="center" src="icons/in.png"/></td>
+           <td><img class="log" align="center" src="icons/in.png"/></td>
 	  </tr>
   </table>
 </div>
