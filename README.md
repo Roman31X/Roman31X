@@ -1,4 +1,4 @@
-##  Conquistador de Plataformas 
+##  Platform Conqueror 
 
 <img align="center" src="img/1.2.png"/>
 
