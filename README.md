@@ -6,4 +6,4 @@
 
 #### `Hola` soy Diego S. Román Guerra. 
 
-![](https://komarev.com/ghpvc/?username=Roman31X&color=#ed0000&style=plastic)
+![](https://komarev.com/ghpvc/?username=Roman31X&color=ed0000&style=plastic)
