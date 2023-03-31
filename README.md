@@ -18,8 +18,12 @@
     <tr>
    <td rowspan="2">Celda Combinada</td>
 	<td>NetBeans IDE 8.2</td>
-	<td>Sublime Text</td>
-	<td>Visual Studio Code</td>
+   </tr>
+   <tr>
+	   <td>Sublime Text</td>
+   </tr>
+   <tr>
+	   <td>Visual Studio Code</td>
    </tr>
   </table>
 </div>
