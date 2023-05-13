@@ -22,7 +22,7 @@
    </tr>
     <tr>
    <td rowspan="4"><img  width="100" heigth="100" align="center" src="img/selecc.gif"/></td>
-	<td>NetBeans IDE 8.2</td>
+	<td>NetBeans IDE 17</td>
 	<td><img width="30" heigth="30" class="logo" align="center" src="icons/L1.png"/></td>
    </tr>
    <tr>
