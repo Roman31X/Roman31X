@@ -18,7 +18,6 @@
 	<th>Area de entrenamiento</th>
 	<th>Campos Desbloqueados</th>
 	<th>Logos</th>
-	    
    </tr>
     <tr>
    <td rowspan="4"><img  width="100" heigth="100" align="center" src="img/selecc.gif"/></td>
