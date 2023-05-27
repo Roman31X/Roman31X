@@ -37,5 +37,7 @@
            <td><img width="30" heigth="30" class="logo" align="center" src="icons/in.png"/></td>
 	  </tr>
   </table>
+	
 </center>
+	
 </div>
