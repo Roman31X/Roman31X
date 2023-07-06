@@ -13,7 +13,7 @@
 # Compiladores - Terminales
 <div>
 <center>
-  <table border="1" textaling="center">
+  <table border="1" text-aling="center">
     <tr>
 	<th>Area de entrenamiento</th>
 	<th>Campos Desbloqueados</th>
