@@ -39,4 +39,4 @@
   </table>	
 </center>	
 </div>
-<link rel="preconnect" href="https://www.facebook.com">Link
+Link
