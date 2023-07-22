@@ -45,21 +45,25 @@
 	<th>Logos</th>
    </tr>
     <tr>
-   <td rowspan="4" align="center" valign="middle" ><img width="100" src="img/selecc.gif"/></td>
-	<td>NetBeans IDE 17</td>
-	<td><img width="30" heigth="30" class="logo" align="center" src="icons/L1.png"/></td>
+   <td rowspan="5" align="center" valign="middle" ><img width="200" src="img/selecc.gif"/></td>
+	<td>Pseint</td>
+	<td align="center" valign="middle" ><img width="40" heigth="40" src="icons/pseint.png"/></td>
+   </tr>
+  <tr>
+	   <td>NetBeans IDE 17</td>
+	   <td align="center" valign="middle" ><img width="30" heigth="30"  src="icons/L1.png"/></td>
    </tr>
    <tr>
 	   <td>Sublime Text</td>
-	   <td><img width="30" heigth="30" class="logo" align="center" src="icons/s1.png"/></td>
+	   <td align="center" valign="middle" ><img width="30" heigth="30" src="icons/s1.png"/></td>
    </tr>
    <tr>
 	   <td>Visual Studio Code</td>
-	   <td><img width="30" heigth="30" class="logo" align="center" src="icons/v1.png"/></td>
+	   <td align="center" valign="middle" ><img width="30" heigth="30" src="icons/v1.png"/></td>
    </tr>
 	   <tr>
 	   <td>IntelliJ IDEA</td>
-           <td><img width="30" heigth="30" class="logo" align="center" src="icons/in.png"/></td>
+           <td align="center" valign="middle" ><img width="30" heigth="30" class="logo" src="icons/in.png"/></td>
 	  </tr>
   </table>	
 </center>	
