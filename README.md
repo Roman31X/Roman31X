@@ -1,26 +1,51 @@
-##  Platform Conqueror 
+<div id="header" align="center" >
+<h1>Platform Conqueror 	:computer: </h1> 
+</div>
 
-<img align="center" src="img/1.2.png"/>
+<img src="img/1.2.png"/>
 
-###  Todos dicen que existe un límite para todo. Pero pocos rompen ese límite y se superan más
+<h2 align="center" >Hi :wave: I'm a developer</h2>
 
-#### `Hola` soy Diego S. Román Guerra. 
+###  Everyone says there is a limit to everything. But few break that limit and exceed even more...
 
+#### `Hi` I'm Diego Román Guerra. 
+
+<div align="center" >
+	
 ![](https://komarev.com/ghpvc/?username=Roman31X&color=ed0000&style=plastic)
 
 ---
 
+</div>
+
+## About me:
+
+- :mag: I like to investigate new technologies and understand their implementation today
+- :chart_with_upwards_trend: I like to analyze and provide solutions with improvements in the projects I develop
+- :envelope: How to reach me **roman.haa31@gmail.com**
+- :keyboard: I'm currently learming "Python"
+
+---
+
+## Languages I implement as a developer
+
+<div align="Center">
+
+
+ 
+</div>
+
 # Compiladores - Terminales
 <div>
 <center>
-  <table border="1" text-align: "center">
+  <table border="1" align="center">
     <tr>
 	<th>Area de entrenamiento</th>
 	<th>Campos Desbloqueados</th>
 	<th>Logos</th>
    </tr>
     <tr>
-   <td rowspan="4"><img  width="100" heigth="100" align="center" src="img/selecc.gif"/></td>
+   <td rowspan="4" align="center" valign="middle" ><img width="100" src="img/selecc.gif"/></td>
 	<td>NetBeans IDE 17</td>
 	<td><img width="30" heigth="30" class="logo" align="center" src="icons/L1.png"/></td>
    </tr>
