@@ -1,5 +1,7 @@
-<div id="header" align="center" >
-<h1>Platform Conqueror 	:computer: </h1> 
+<div id="header" align="center">
+	
+# __Platform Conqueror__ 	:computer:
+
 </div>
 
 <img src="img/1.2.png"/>
@@ -22,12 +24,13 @@
 
 - :mag: I like to investigate new technologies and understand their implementation today
 - :chart_with_upwards_trend: I like to analyze and provide solutions with improvements in the projects I develop
+- :coffee: Coffee lover
 - :envelope: How to reach me **roman.haa31@gmail.com**
 - :keyboard: I'm currently learming "Python"
 
 ---
 
-## Languages I implement as a developer
+## :paperclip: Languages I implement as a developer
 
 <div align="Center">
 
@@ -35,7 +38,7 @@
  
 </div>
 
-# Compiladores - Terminales
+# :computer: __Development environment__
 <div>
 <center>
   <table border="1" align="center">
