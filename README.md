@@ -28,6 +28,16 @@
 - :envelope: How to reach me **roman.haa31@gmail.com**
 - :keyboard: I'm currently learming "Python"
 
+  
+<br>
+<div align="center" >
+
+## __GitHub Readme Streak Stats__
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roman31X&theme=tokyonight-duo&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
+ 
+</div>
+
 ---
 
 ## :paperclip: Languages I implement as a developer
