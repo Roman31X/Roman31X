@@ -44,6 +44,20 @@
 
 <div align="Center">
 
+<table border="2">
+	<tr>
+		<td align="center" valign="middle" >Programming <br> Languages</td>
+		<td colspan="5" align="center" valign="middle" >Developed Languages</td>
+	</tr>
+	<tr align="center" valign="middle" >
+		<td><img width="50" heigth="50" src="Logo_Lenguajes/Lenguaje.gif"/></td>
+		<td><img width="40" heigth="40" src="Logo_Lenguajes/HTML5_logo_and_wordmark.svg.png"/></td>
+		<td><img width="40" heigth="40" src="Logo_Lenguajes/css3.png"/></td>
+		<td><img width="40" heigth="40" src="Logo_Lenguajes/java-logo-1.png"/></td>
+		<td><img width="40" heigth="40" src="Logo_Lenguajes/Python-Symbol_0.png"/></td>
+		<td><img width="40" heigth="40" src="Logo_Lenguajes/PHP.png"/></td>
+	</tr>
+</table>
 
  
 </div>
