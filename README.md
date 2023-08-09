@@ -26,7 +26,6 @@
 - :chart_with_upwards_trend: I like to analyze and provide solutions with improvements in the projects I develop
 - :coffee: Coffee lover
 - :envelope: How to reach me **roman.haa31@gmail.com**
-<-- :keyboard: I'm currently learming "Python" -->
   
 <br>
 <div align="center" >
