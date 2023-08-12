@@ -28,6 +28,23 @@
 - :envelope: How to reach me **roman.haa31@gmail.com**
   
 <br>
+<div>
+
+```java
+
+Coffee coffee = new Coffee();
+
+while ( sleepy() ){
+    if( coffee.Empty() ){
+	coffee.Refill();
+	print("to continue programming");
+    }else{
+	coffee.Drink();
+    }
+}
+```
+	
+</div>
 <div align="center" >
 
 ## __GitHub Readme Streak Stats__
