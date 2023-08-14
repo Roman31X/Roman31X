@@ -59,7 +59,7 @@ while ( sleepy() ){
 
 <div align="Center">
 
-<table border="2">
+<table border="2" color="red">
 	<tr>
 		<td align="center" valign="middle" >Programming <br> Languages</td>
 		<td colspan="4" align="center" valign="middle" >Developed Languages</td>
