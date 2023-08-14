@@ -37,7 +37,7 @@ Coffee coffee = new Coffee();
 while ( sleepy() ){
     if( coffee.Empty() ){
 	coffee.Refill();
-	print("to continue programming");
+	System.out.println("to continue programming");
     }else{
 	coffee.Drink();
     }
