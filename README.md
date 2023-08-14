@@ -59,7 +59,7 @@ while ( sleepy() ){
 
 <div align="Center">
 
-<table border="2" color="red">
+<table border="2" >
 	<tr>
 		<td align="center" valign="middle" >Programming <br> Languages</td>
 		<td colspan="4" align="center" valign="middle" >Developed Languages</td>
@@ -83,7 +83,7 @@ while ( sleepy() ){
     <tr>
 	<th>Area de entrenamiento</th>
 	<th>Campos Desbloqueados</th>
-	<th>Logos</th>
+	<th>IDE</th>
    </tr>
     <tr>
    <td rowspan="5" align="center" valign="middle" ><img width="200" src="img/selecc.gif"/></td>
